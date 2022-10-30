@@ -7,3 +7,4 @@ line 4
 
 Line 1 in feature 1
 
+New line to commit in remote-branch on remote repo
